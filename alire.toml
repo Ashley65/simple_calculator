@@ -1,0 +1,12 @@
+name = "simple_calculator"
+description = "just the basics"
+version = "0.1.0-dev"
+
+authors = ["ie"]
+maintainers = ["ie <nchinembiri@outlook.com>"]
+maintainers-logins = ["Ashley65"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["simple_calculator"]

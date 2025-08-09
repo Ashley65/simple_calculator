@@ -1,0 +1,46 @@
+Builder results
+    C:\Users\DevAccount\Ada\projects\simple_calculator\src\simple_calculator.adb
+        13:7 (style) space required
+        14:31 (style) space required
+        16:6 (style) bad indentation
+        17:8 (style) bad indentation
+        18:8 (style) bad indentation
+        19:8 (style) bad indentation
+        20:32 (style) space required
+        22:8 (style) bad indentation
+        24:9 error: must have at least one exception handler
+        25:7 (style) "end" in wrong column, should be in column 6
+        26:5 (style) bad indentation
+        28:21 (style) space required
+        30:12 (style) space required
+        31:12 (style) space required
+        32:27 (style) space required
+        34:21 (style) space required
+        38:9 (style) bad indentation
+        39:9 (style) bad indentation
+        41:9 (style) bad indentation
+        42:9 (style) bad indentation
+        44:9 (style) bad indentation
+        45:9 (style) bad indentation
+        48:28 (style) space required
+        50:21 (style) space required
+        54:18 (style) space required
+        59:6 (style) bad indentation
+        60:9 (style) bad indentation
+        61:7 (style) this token should be in column 6
+        62:9 (style) bad indentation
+        63:6 (style) bad indentation
+        64:3 (style) bad indentation
+
+Error converting from UTF8 to ISO-8859-1
+    C:\Users\DevAccount\Ada\projects\simple_calculator\src\simple_calculator.adb
+        24:1 Invalid byte sequence in conversion input
+        23:1 Invalid byte sequence in conversion input
+        23:1 Invalid byte sequence in conversion input
+        23:1 Invalid byte sequence in conversion input
+        23:1 Invalid byte sequence in conversion input
+
+Project
+    C:\Users\DevAccount\Ada\projects\simple_calculator\simple_calculator.gpr
+        2:9 warning: exec directory "bin" not found
+        5:23 warning: object directory "obj/development" not found
